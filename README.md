@@ -11,4 +11,4 @@ More information is available in my Notion document [Predicting Hospitalized Tim
 ### Installation Instructions:
 1. Clone the project from my [Github](https://github.com/parthamehta123/Predicting-Length-OfStay-Of-Patient-In-a-Hospital)
 2. Install mlflow and other libraries (see the imports in the notebook)
-3. Run the Jupyter notebook
+3. Run the Colab notebook
